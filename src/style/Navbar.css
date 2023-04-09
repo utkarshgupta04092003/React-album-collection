@@ -1,0 +1,29 @@
+.Navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+
+}
+
+.navbar-button {
+    border: 2px solid red;
+    color: red;
+    margin: 0.5rem;
+    font-size: x-large;
+    font-weight: bold;
+    background: none;
+}
+.add-album-button{
+    border: 2px solid red;
+    color: red;
+    margin: 0.5rem;
+    font-size: large;
+    font-weight: bold;
+    background: none;
+    cursor: pointer;
+}
+.navbar-button>.album{
+    background-color: red;
+    color: black;
+}

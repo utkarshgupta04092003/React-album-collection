@@ -1,0 +1,13 @@
+.container{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  
+    
+  }
+
+  .AlbumList>h1{
+    text-align: center;
+  }
+  
